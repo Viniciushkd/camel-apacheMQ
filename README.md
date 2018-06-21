@@ -8,6 +8,8 @@ activemq start
 ```
 ### Linux 
 ```
+sudo /opt/apache-activemq-5.15.4/bin/activemq console
+~
 sudo /opt/apache-activemq-5.15.4/bin/activemq start
 ```
 ### Interface
