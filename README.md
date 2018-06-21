@@ -3,7 +3,7 @@
 Instalar [apache-activemq-5.15.4](http://activemq.apache.org/activemq-5154-release.html)
 ### Windows
 ```
-apache-cxf-2.7.11\bin
+apache-activemq-5.15.4\bin
 activemq start
 ```
 ### Linux 
