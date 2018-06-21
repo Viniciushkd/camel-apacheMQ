@@ -1,6 +1,6 @@
 # Camel ApacheMQ
 ## Configuração
-Instalar [apache-cxf-2.7.11](http://archive.apache.org/dist/cxf/2.7.11/)
+Instalar [apache-activemq-5.15.4](http://activemq.apache.org/activemq-5154-release.html)
 ### Windows
 ```
 apache-cxf-2.7.11\bin
